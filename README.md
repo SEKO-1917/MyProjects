@@ -1,4 +1,3 @@
-# My-Yandex-Projects-from-Data-Science-course
 # Portfolio
 
 ipynb notebooks with data analysis and ML modeling
